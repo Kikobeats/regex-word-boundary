@@ -1,11 +1,11 @@
-# create-word-boundary-regex
+# regex-word-boundary
 
-![Last version](https://img.shields.io/github/tag/Kikobeats/create-word-boundary-regex.svg?style=flat-square)
-[![Build Status](https://img.shields.io/travis/Kikobeats/create-word-boundary-regex/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/create-word-boundary-regex)
-[![Coverage Status](https://img.shields.io/coveralls/Kikobeats/create-word-boundary-regex.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/create-word-boundary-regex)
-[![Dependency status](https://img.shields.io/david/Kikobeats/create-word-boundary-regex.svg?style=flat-square)](https://david-dm.org/Kikobeats/create-word-boundary-regex)
-[![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/create-word-boundary-regex.svg?style=flat-square)](https://david-dm.org/Kikobeats/create-word-boundary-regex#info=devDependencies)
-[![NPM Status](https://img.shields.io/npm/dm/create-word-boundary-regex.svg?style=flat-square)](https://www.npmjs.org/package/create-word-boundary-regex)
+![Last version](https://img.shields.io/github/tag/Kikobeats/regex-word-boundary.svg?style=flat-square)
+[![Build Status](https://img.shields.io/travis/Kikobeats/regex-word-boundary/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/regex-word-boundary)
+[![Coverage Status](https://img.shields.io/coveralls/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/regex-word-boundary)
+[![Dependency status](https://img.shields.io/david/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://david-dm.org/Kikobeats/regex-word-boundary)
+[![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://david-dm.org/Kikobeats/regex-word-boundary#info=devDependencies)
+[![NPM Status](https://img.shields.io/npm/dm/regex-word-boundary.svg?style=flat-square)](https://www.npmjs.org/package/regex-word-boundary)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
 > Helper for create a word boundary regex based in a collection
@@ -13,13 +13,13 @@
 ## Install
 
 ```bash
-$ npm install create-word-boundary-regex --save
+$ npm install regex-word-boundary --save
 ```
 
 ## Usage
 
 ```js
-const createWordBoundaryRegex = require('create-word-boundary-regex')
+const createWordBoundaryRegex = require('regex-word-boundary')
 
 const regex = createWordBoundaryRegex([
   'hello',

@@ -4,7 +4,7 @@ const should = require('should')
 
 const createWordBoundaryRegex = require('..')
 
-describe('create-word-boundary-regex', function () {
+describe('regex-word-boundary', function () {
   it('serialization is correct', function () {
     const collection = [
       'starboard',

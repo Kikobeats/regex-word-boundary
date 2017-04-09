@@ -1,7 +1,7 @@
 {
-  "name": "create-word-boundary-regex",
+  "name": "regex-word-boundary",
   "description": "Helper for create a word boundary regex based in a collection",
-  "homepage": "https://github.com/Kikobeats/create-word-boundary-regex",
+  "homepage": "https://github.com/Kikobeats/regex-word-boundary",
   "version": "1.0.0",
   "main": "index.js",
   "author": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kikobeats/create-word-boundary-regex.git"
+    "url": "git+https://github.com/kikobeats/regex-word-boundary.git"
   },
   "bugs": {
-    "url": "https://github.com/Kikobeats/create-word-boundary-regex/issues"
+    "url": "https://github.com/Kikobeats/regex-word-boundary/issues"
   },
   "keywords": [
     "boundary",
