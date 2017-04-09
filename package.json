@@ -16,7 +16,11 @@
   "bugs": {
     "url": "https://github.com/Kikobeats/create-word-boundary-regex/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "boundary",
+    "regex",
+    "word"
+  ],
   "dependencies": {},
   "devDependencies": {
     "coveralls": "latest",
