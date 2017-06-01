@@ -42,7 +42,8 @@ Type: `Array`
 Collection of String for create the regex.
 
 #### flags
-Type:  `String`
+
+Type:  `String`<br>
 Default: `i`
 
 [Regex flags](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/RegExp) for create the regex.
