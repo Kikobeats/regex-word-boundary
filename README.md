@@ -8,7 +8,7 @@
 [![NPM Status](https://img.shields.io/npm/dm/regex-word-boundary.svg?style=flat-square)](https://www.npmjs.org/package/regex-word-boundary)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
-> Helper for create a word boundary regex based in a collection
+> Helper for create a [word boundary](http://www.regular-expressions.info/wordboundaries.html) regex based in a collection
 
 ## Install
 
