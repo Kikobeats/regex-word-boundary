@@ -1,5 +1,7 @@
 # regex-word-boundary
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/regex-word-boundary.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/regex-word-boundary.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/regex-word-boundary/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/regex-word-boundary)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/regex-word-boundary)
