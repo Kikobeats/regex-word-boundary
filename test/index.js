@@ -12,7 +12,7 @@ describe('regex-word-boundary', function () {
     ]
 
     const regex = createWordBoundaryRegex(collection)
-    should(regex).be.eql(/\bstarboard\b|\bseverne\b/i)
+    should(regex).be.eql(/\bstarboard\b|\bseverne\b/ui)
 
     const test = collection.every(regex.test.bind(regex))
     should(test).be.true()
