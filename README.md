@@ -1,14 +1,11 @@
 # regex-word-boundary
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/regex-word-boundary.svg)](https://greenkeeper.io/)
-
 ![Last version](https://img.shields.io/github/tag/Kikobeats/regex-word-boundary.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/Kikobeats/regex-word-boundary/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/regex-word-boundary)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/regex-word-boundary)
 [![Dependency status](https://img.shields.io/david/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://david-dm.org/Kikobeats/regex-word-boundary)
 [![Dev Dependencies Status](https://img.shields.io/david/dev/Kikobeats/regex-word-boundary.svg?style=flat-square)](https://david-dm.org/Kikobeats/regex-word-boundary#info=devDependencies)
 [![NPM Status](https://img.shields.io/npm/dm/regex-word-boundary.svg?style=flat-square)](https://www.npmjs.org/package/regex-word-boundary)
-[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/Kikobeats)
 
 > Helper for create a [word boundary](http://www.regular-expressions.info/wordboundaries.html) regex based in a collection
 
