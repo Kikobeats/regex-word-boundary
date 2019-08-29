@@ -1,3 +1,11 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2019-08-29)
+
+* Closes #5 ([accdaa1](https://github.com/kikobeats/regex-word-boundary/commit/accdaa1)), closes [#5](https://github.com/kikobeats/regex-word-boundary/issues/5)
+* Update package.json ([3033f33](https://github.com/kikobeats/regex-word-boundary/commit/3033f33))
+
+
+
 <a name="1.0.3"></a>
 ## 1.0.3 (2019-07-02)
 
