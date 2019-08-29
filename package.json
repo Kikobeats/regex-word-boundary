@@ -49,5 +49,8 @@
       "describe",
       "it"
     ]
+  },
+  "dependencies": {
+    "escape-string-regexp": "~2.0.0"
   }
 }
