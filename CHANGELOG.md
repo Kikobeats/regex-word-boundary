@@ -1,3 +1,9 @@
+## <small>1.1.1 (2020-04-08)</small>
+
+* Bump escape-string-regexp from 2.0.0 to 3.0.0 ([59ef971](https://github.com/kikobeats/regex-word-boundary/commit/59ef971))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2019-08-29)
 

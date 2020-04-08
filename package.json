@@ -2,7 +2,7 @@
   "name": "regex-word-boundary",
   "description": "Helper for create a word boundary regex based in a collection",
   "homepage": "https://nidedoc.io/Kikobeats/regex-word-boundary",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
