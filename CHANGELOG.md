@@ -1,8 +1,8 @@
-## <small>1.1.1 (2020-04-08)</small>
+# Changelog
 
-* Bump escape-string-regexp from 2.0.0 to 3.0.0 ([59ef971](https://github.com/kikobeats/regex-word-boundary/commit/59ef971))
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-
+### 1.1.2 (2020-04-23)
 
 <a name="1.1.0"></a>
 # 1.1.0 (2019-08-29)
@@ -52,6 +52,3 @@
 * First commit ([5ea4f4b](https://github.com/kikobeats/regex-word-boundary/commit/5ea4f4b))
 * Release 1.0.0 ([aad23e0](https://github.com/kikobeats/regex-word-boundary/commit/aad23e0))
 * Update docs ([37939ad](https://github.com/kikobeats/regex-word-boundary/commit/37939ad))
-
-
-
